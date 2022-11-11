@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730033927468",
+    "project_id": "esan2022-hcs",
+    "storage_bucket": "esan2022-hcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730033927468:android:0704b4596cc19bc2c92889",
+        "android_client_info": {
+          "package_name": "dev.hcartagena.firebasedpa2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730033927468-1pulm5he4l4kcs2fg0ie27l0p7ug2ftf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35ElAsut1dWMzI_L2Afb2ScQZwoYvZg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730033927468-1pulm5he4l4kcs2fg0ie27l0p7ug2ftf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
